@@ -7,12 +7,12 @@ JQuery plugin for to display images in full size
 
 #### 1. First need connect jquery.popupimg plugin
 
-```bash
+```javascript
 <script src=”jquery.popupimg.js”></script>
 ```
 
 #### 2. Initialization function for the desired element
-```bash
+```javascript
 $(function() {
     $(‘img.popupimg’).popupimg({
       'show': 600, // speed show animation

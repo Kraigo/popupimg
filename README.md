@@ -1,9 +1,9 @@
 popupimg
 ========
 
-JQuery plugin for to display images in full size
+JQuery plugin for display images in full size
 
-*Need JQuery http://jquery.com/download/
+Need JQuery http://jquery.com/download/
 
 #### 1. First need connect jquery.popupimg plugin
 

@@ -1,4 +1,4 @@
-popupimg
+PopUp Image
 ========
 
 JQuery plugin for display images in full size
